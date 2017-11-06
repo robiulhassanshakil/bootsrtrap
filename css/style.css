@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+}
+
+Header {
+    min-height: 100px;
+    background-color: #9FC5F8;
+
+}
+
+.brand,
+.global_nav,
+.tools {
+    background-color: #CFE2FB;
+    min-height: 70px;
+    margin: 15px 20px;
+}
+
+#Hero {
+    min-height: 1px;
+    margin: 20px 0px;
+
+}
+
+.hero_section {
+    min-height: 150px;
+    background-color: #9FC5F8;
+
+}
+
+.hero_feature,
+.hero_call {
+    min-height: 120px;
+    background-color: #CFE2FB;
+    margin: 15px 20px;
+
+}
+
+.add {
+    min-height: 150px;
+    background-color: #6FA8DC;
+}
+
+#b_body {
+    min-height: 460px;
+}
+
+.body_slider {
+    min-height: 450px;
+    background-color: #9FC5F8;
+}
+
+.artical_feature,
+.artical_listing {
+    min-height: 400px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: #CFE2FB;
+}
+
+.slider_bar {
+    min-height: 450px;
+    background-color: #9FC5F8;
+}
+
+.slider_feature {
+    min-height: 400px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: #CFE2FB;
+}
+.footer{
+    min-height: 65px;
+    background-color: #9FC5F8;
+    margin-top: 20px;
+    
+}

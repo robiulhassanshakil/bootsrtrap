@@ -1,0 +1,65 @@
+@media (max-width: 767px) {
+
+
+    .brand,
+    .global_nav,
+    .tools {
+        background-color: #CFE2FB;
+        min-height: 40px;
+        margin: 15px 20px;
+    }
+    .hero_section {
+        min-height: 80px;
+        background-color: #9FC5F8;
+    }
+    .hero_call {
+        min-height: 60px;
+        background-color: #CFE2FB;
+        margin-top: 10px;
+    }
+    .artical_feature{min-height: 80px;}
+    .add{min-height: 80px;}
+    .artical_listing{min-height: 180px;}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .hero_section {
+        min-height: 165px;
+        background-color: #9FC5F8;
+    }
+    .hero_feature,
+    .hero_call {
+        min-height: 60px;
+        background-color: #CFE2FB;
+        margin: 10px 0px;
+    }
+
+    .artical_feature {
+        min-height: 100px;
+        background-color: #CFE2FB;
+        margin-top: 30px;
+    }
+    .add {
+        min-height: 100px;
+        margin-top: 30px;
+        background-color: #6FA8DC;
+    }
+    .artical_listing {min-height: 280px;
+    margin:0px;}
+    .body_slider{margin-bottom: 20px;}
+    .slider_feature {
+    min-height: 100px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: #CFE2FB;
+}
+    .slider_bar {
+    min-height: 150px;
+    background-color: #9FC5F8;
+}
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+@media (min-width: 1200px) {}
